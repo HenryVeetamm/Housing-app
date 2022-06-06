@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5niy5D1oHylYRvhvBWQwMv6aHhVqATArOPnqSi0kXcR+gBUJJoSCbZuPVFGkR4UADvdDOVwJQ9ubZpU4FTyw0w==",
+  "dgSpecHash": "PNmwMkDYscboykpTpfGFINvT/ZyLSrEmxcqjaK8MVdRVcWWN2BjqOOWOYVXPO2bNUrkDaXmS1jsuyZD9ctLHUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.DAL.EF\\App.DAL.EF.csproj",
+  "projectFilePath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.DAL.EF\\App.DAL.EF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henri\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.1\\microsoft.aspnetcore.cryptography.internal.6.0.1.nupkg.sha512",
     "C:\\Users\\henri\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.1\\microsoft.aspnetcore.cryptography.keyderivation.6.0.1.nupkg.sha512",

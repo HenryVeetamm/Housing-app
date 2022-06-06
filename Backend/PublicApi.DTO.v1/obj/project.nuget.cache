@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tSWOL4H+fUVa+t4MEhcnQboW7imlCTIiIOGT12K0z1ytkCHhB7t3AEvwcgOZk20DmALNP6QUiX4PlFIsA7d4Zg==",
+  "dgSpecHash": "QLsZBpeHRptwVyHNYStcQ8+DWzLP3PIyFghD5pLzfgq3a0FwCJXfJCxZh3yBYOnHL7ZHuQXS3TkHjZx3y5ifHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\PublicApi.DTO.v1\\PublicApi.DTO.v1.csproj",
+  "projectFilePath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\PublicApi.DTO.v1\\PublicApi.DTO.v1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henri\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\henri\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.5\\microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",

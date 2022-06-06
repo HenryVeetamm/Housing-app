@@ -327,11 +327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\Base.Extensions\\Base.Extensions.csproj",
+      "projectUniqueName": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\Base.Extensions\\Base.Extensions.csproj",
       "projectName": "Base.Extensions",
-      "projectPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\Base.Extensions\\Base.Extensions.csproj",
+      "projectPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\Base.Extensions\\Base.Extensions.csproj",
       "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\Base.Extensions\\obj\\",
+      "outputPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\Base.Extensions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -22,3 +22,15 @@ C:\Users\henri\RiderProjects\Distributed-exam\Backend\Base.Extensions\obj\Debug\
 C:\Users\henri\RiderProjects\Distributed-exam\Backend\Base.Extensions\obj\Debug\net6.0\Base.Extensions.dll
 C:\Users\henri\RiderProjects\Distributed-exam\Backend\Base.Extensions\obj\Debug\net6.0\ref\Base.Extensions.dll
 C:\Users\henri\RiderProjects\Distributed-exam\Backend\Base.Extensions\obj\Debug\net6.0\Base.Extensions.pdb
+C:\Users\henri\RiderProjects\Housing-app\Backend\Base.Extensions\bin\Debug\net6.0\Base.Extensions.deps.json
+C:\Users\henri\RiderProjects\Housing-app\Backend\Base.Extensions\bin\Debug\net6.0\Base.Extensions.dll
+C:\Users\henri\RiderProjects\Housing-app\Backend\Base.Extensions\bin\Debug\net6.0\ref\Base.Extensions.dll
+C:\Users\henri\RiderProjects\Housing-app\Backend\Base.Extensions\bin\Debug\net6.0\Base.Extensions.pdb
+C:\Users\henri\RiderProjects\Housing-app\Backend\Base.Extensions\obj\Debug\net6.0\Base.Extensions.csproj.AssemblyReference.cache
+C:\Users\henri\RiderProjects\Housing-app\Backend\Base.Extensions\obj\Debug\net6.0\Base.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\RiderProjects\Housing-app\Backend\Base.Extensions\obj\Debug\net6.0\Base.Extensions.AssemblyInfoInputs.cache
+C:\Users\henri\RiderProjects\Housing-app\Backend\Base.Extensions\obj\Debug\net6.0\Base.Extensions.AssemblyInfo.cs
+C:\Users\henri\RiderProjects\Housing-app\Backend\Base.Extensions\obj\Debug\net6.0\Base.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\henri\RiderProjects\Housing-app\Backend\Base.Extensions\obj\Debug\net6.0\Base.Extensions.dll
+C:\Users\henri\RiderProjects\Housing-app\Backend\Base.Extensions\obj\Debug\net6.0\ref\Base.Extensions.dll
+C:\Users\henri\RiderProjects\Housing-app\Backend\Base.Extensions\obj\Debug\net6.0\Base.Extensions.pdb

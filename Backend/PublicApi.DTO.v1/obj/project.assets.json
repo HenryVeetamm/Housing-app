@@ -628,11 +628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\PublicApi.DTO.v1\\PublicApi.DTO.v1.csproj",
+      "projectUniqueName": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\PublicApi.DTO.v1\\PublicApi.DTO.v1.csproj",
       "projectName": "PublicApi.DTO.v1",
-      "projectPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\PublicApi.DTO.v1\\PublicApi.DTO.v1.csproj",
+      "projectPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\PublicApi.DTO.v1\\PublicApi.DTO.v1.csproj",
       "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\PublicApi.DTO.v1\\obj\\",
+      "outputPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\PublicApi.DTO.v1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -647,8 +647,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.Domain\\App.Domain.csproj": {
-              "projectPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.Domain\\App.Domain.csproj"
+            "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.Domain\\App.Domain.csproj": {
+              "projectPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.Domain\\App.Domain.csproj"
             }
           }
         }

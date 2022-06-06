@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.DAL.EF\\App.DAL.EF.csproj": {
+    "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.DAL.EF\\App.DAL.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.DAL.EF\\App.DAL.EF.csproj",
+        "projectUniqueName": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.DAL.EF\\App.DAL.EF.csproj",
         "projectName": "App.DAL.EF",
-        "projectPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.DAL.EF\\App.DAL.EF.csproj",
+        "projectPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.DAL.EF\\App.DAL.EF.csproj",
         "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.DAL.EF\\obj\\",
+        "outputPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.DAL.EF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.Domain\\App.Domain.csproj": {
-                "projectPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.Domain\\App.Domain.csproj"
+              "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.Domain\\App.Domain.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.Domain\\App.Domain.csproj": {
+    "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.Domain\\App.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.Domain\\App.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.Domain\\App.Domain.csproj",
         "projectName": "App.Domain",
-        "projectPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.Domain\\App.Domain.csproj",
+        "projectPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.Domain\\App.Domain.csproj",
         "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.Domain\\obj\\",
+        "outputPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\Base.Extensions\\Base.Extensions.csproj": {
+    "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\Base.Extensions\\Base.Extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\Base.Extensions\\Base.Extensions.csproj",
+        "projectUniqueName": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\Base.Extensions\\Base.Extensions.csproj",
         "projectName": "Base.Extensions",
-        "projectPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\Base.Extensions\\Base.Extensions.csproj",
+        "projectPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\Base.Extensions\\Base.Extensions.csproj",
         "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\Base.Extensions\\obj\\",
+        "outputPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\Base.Extensions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -186,14 +186,14 @@
         }
       }
     },
-    "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\PublicApi.DTO.v1\\PublicApi.DTO.v1.csproj": {
+    "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\PublicApi.DTO.v1\\PublicApi.DTO.v1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\PublicApi.DTO.v1\\PublicApi.DTO.v1.csproj",
+        "projectUniqueName": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\PublicApi.DTO.v1\\PublicApi.DTO.v1.csproj",
         "projectName": "PublicApi.DTO.v1",
-        "projectPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\PublicApi.DTO.v1\\PublicApi.DTO.v1.csproj",
+        "projectPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\PublicApi.DTO.v1\\PublicApi.DTO.v1.csproj",
         "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\PublicApi.DTO.v1\\obj\\",
+        "outputPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\PublicApi.DTO.v1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -208,8 +208,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.Domain\\App.Domain.csproj": {
-                "projectPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.Domain\\App.Domain.csproj"
+              "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.Domain\\App.Domain.csproj"
               }
             }
           }
@@ -252,14 +252,14 @@
         }
       }
     },
-    "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\WebApp\\WebApp.csproj",
+        "projectPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\WebApp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\WebApp\\obj\\",
+        "outputPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -274,14 +274,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.DAL.EF\\App.DAL.EF.csproj": {
-                "projectPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\App.DAL.EF\\App.DAL.EF.csproj"
+              "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.DAL.EF\\App.DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\App.DAL.EF\\App.DAL.EF.csproj"
               },
-              "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\Base.Extensions\\Base.Extensions.csproj": {
-                "projectPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\Base.Extensions\\Base.Extensions.csproj"
+              "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\Base.Extensions\\Base.Extensions.csproj": {
+                "projectPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\Base.Extensions\\Base.Extensions.csproj"
               },
-              "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\PublicApi.DTO.v1\\PublicApi.DTO.v1.csproj": {
-                "projectPath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\PublicApi.DTO.v1\\PublicApi.DTO.v1.csproj"
+              "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\PublicApi.DTO.v1\\PublicApi.DTO.v1.csproj": {
+                "projectPath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\PublicApi.DTO.v1\\PublicApi.DTO.v1.csproj"
               }
             }
           }

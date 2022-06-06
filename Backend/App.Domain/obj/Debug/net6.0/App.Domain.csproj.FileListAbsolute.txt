@@ -22,3 +22,15 @@ C:\Users\henri\RiderProjects\Distributed-exam\Backend\App.Domain\obj\Debug\net6.
 C:\Users\henri\RiderProjects\Distributed-exam\Backend\App.Domain\obj\Debug\net6.0\App.Domain.dll
 C:\Users\henri\RiderProjects\Distributed-exam\Backend\App.Domain\obj\Debug\net6.0\ref\App.Domain.dll
 C:\Users\henri\RiderProjects\Distributed-exam\Backend\App.Domain\obj\Debug\net6.0\App.Domain.pdb
+C:\Users\henri\RiderProjects\Housing-app\Backend\App.Domain\bin\Debug\net6.0\App.Domain.deps.json
+C:\Users\henri\RiderProjects\Housing-app\Backend\App.Domain\bin\Debug\net6.0\App.Domain.dll
+C:\Users\henri\RiderProjects\Housing-app\Backend\App.Domain\bin\Debug\net6.0\ref\App.Domain.dll
+C:\Users\henri\RiderProjects\Housing-app\Backend\App.Domain\bin\Debug\net6.0\App.Domain.pdb
+C:\Users\henri\RiderProjects\Housing-app\Backend\App.Domain\obj\Debug\net6.0\App.Domain.csproj.AssemblyReference.cache
+C:\Users\henri\RiderProjects\Housing-app\Backend\App.Domain\obj\Debug\net6.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\RiderProjects\Housing-app\Backend\App.Domain\obj\Debug\net6.0\App.Domain.AssemblyInfoInputs.cache
+C:\Users\henri\RiderProjects\Housing-app\Backend\App.Domain\obj\Debug\net6.0\App.Domain.AssemblyInfo.cs
+C:\Users\henri\RiderProjects\Housing-app\Backend\App.Domain\obj\Debug\net6.0\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\henri\RiderProjects\Housing-app\Backend\App.Domain\obj\Debug\net6.0\App.Domain.dll
+C:\Users\henri\RiderProjects\Housing-app\Backend\App.Domain\obj\Debug\net6.0\ref\App.Domain.dll
+C:\Users\henri\RiderProjects\Housing-app\Backend\App.Domain\obj\Debug\net6.0\App.Domain.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zbTP0Aj9Ssh9hxlbgODijMkBsbcYPzeOdrW0vSfB7Dihf4wGNssp2Fn//o80SaqjdI3qkxRmuWmm+pbPqMqQMw==",
+  "dgSpecHash": "fSrV6WZvuBPcpI8Ni6SGvJJ0+K0CRPqkQCynFgIKBbPhiYDs8FrSV7s6cxddpUZj36MkNFr4ixVFV3OockNWyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henri\\RiderProjects\\Distributed-exam\\Backend\\Base.Extensions\\Base.Extensions.csproj",
+  "projectFilePath": "C:\\Users\\henri\\RiderProjects\\Housing-app\\Backend\\Base.Extensions\\Base.Extensions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henri\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\henri\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.18.0\\microsoft.identitymodel.abstractions.6.18.0.nupkg.sha512",
