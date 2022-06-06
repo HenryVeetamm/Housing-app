@@ -1,4 +1,4 @@
-import type { IHousing } from "./Housing";
+import type { IHousing } from "./IHousing";
 import type { IAppUser } from "./Identity/IAppUser";
 
 export interface IContract{

@@ -43,8 +43,6 @@ namespace WebApp.ApiControllers
         [HttpGet("contract/{id}")]
         public async Task<ActionResult<IEnumerable<ContractService>>> GetContractServicesByContractId(Guid id)
         {
-            Console.WriteLine("=========================================");
-            Console.WriteLine(id);
             if (_context.ContractServices == null)
             {
                 
@@ -86,9 +84,7 @@ namespace WebApp.ApiControllers
             {
                 return BadRequest();
             }
-
             
-
             try
             {
                 _context.ContractServices.Update(_mapper.Map<App.Domain.ContractService>(contractService));

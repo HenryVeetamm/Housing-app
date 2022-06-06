@@ -24,12 +24,10 @@
 
 
 <script lang="ts">
-import type { IBillingContractService } from "@/components/IBillingContractService";
-import { InitialHousing, type IHousing } from "@/domain/Housing";
+import type { IBillingContractService } from "@/domain/IBillingContractService";
 import { InitialBilling, type IBilling } from "@/domain/IBilling";
 import { InitialContract, type IContract } from "@/domain/IContract";
 import type { IContractService, IContractServiceHelper } from "@/domain/IContractService";
-import type { IService } from "@/domain/IService";
 import { BillingContractServiceService } from "@/services/BillingContractServiceService";
 import { BillingService } from "@/services/BillingService";
 import { ContractService } from "@/services/ContractService";
@@ -79,10 +77,6 @@ export default class BillingPay extends Vue {
                 this.contractServicesWithAmount.push({ ...item, amount: 0, added: false })
             }
         });
-
-        console.log(this.billing)
-        console.log(this.contractService)
-
     }
 
 
@@ -94,7 +88,6 @@ export default class BillingPay extends Vue {
     async addBillingContractService(conServ: IContractServiceHelper) {
         conServ.added = !conServ.added
         this.billingSum += (conServ.amount * conServ.service?.costPerUnit!)
-        console.log(conServ)
     }
 
     async submitBilling(): Promise<void> {

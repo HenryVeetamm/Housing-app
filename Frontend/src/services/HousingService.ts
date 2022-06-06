@@ -1,5 +1,5 @@
 
-import type { IHousing } from "@/domain/Housing";
+import type { IHousing } from "@/domain/IHousing";
 import httpClient from "@/http-client";
 import type { AxiosError } from "axios";
 import { BaseService } from "./BaseService";

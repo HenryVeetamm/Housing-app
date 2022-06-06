@@ -1,10 +1,6 @@
 <template>
-    <span v-if="!contract.accepted">
-        <h1>Request</h1>
-    </span>
-    <span v-if="contract.accepted">
-        <h1>Request</h1>
-    </span>
+
+    <h1>Request</h1>
 
     <div>
         <h4>Contract</h4>
@@ -59,12 +55,8 @@
 
 
 <script lang="ts">
-import { EActionType } from "@/domain/Enum/EActionType";
-import { InitialHousing, type IHousing } from "@/domain/Housing";
 import { InitialContract, type IContract } from "@/domain/IContract";
 import { ContractService } from "@/services/ContractService";
-import { HousingService } from "@/services/HousingService";
-import { useIdentityStore } from "@/stores/identityStore";
 import { Options, Vue } from "vue-class-component";
 import { RouterLink } from "vue-router";
 

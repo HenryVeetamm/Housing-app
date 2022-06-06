@@ -1,5 +1,3 @@
-
-import type { IContract } from "@/domain/IContract";
 import type { IService } from "@/domain/IService";
 
 import { BaseService } from "./BaseService";

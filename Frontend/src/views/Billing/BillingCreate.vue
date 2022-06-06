@@ -51,8 +51,6 @@ export default class BillingCreate extends Vue {
 
     async mounted(): Promise<void> {
 
-
-
     }
 
 
@@ -60,7 +58,6 @@ export default class BillingCreate extends Vue {
         this.billing.contractId = this.contractId
         let res = await this.billingService.add(this.billing)
         this.$router.push("/contract")
-        console.log(res)
     }
 
 

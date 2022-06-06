@@ -73,8 +73,7 @@
 
 
 <script lang="ts">
-import { EActionType } from "@/domain/Enum/EActionType";
-import { InitialHousing, type IHousing } from "@/domain/Housing";
+import { InitialHousing, type IHousing } from "@/domain/IHousing";
 import type { IContract } from "@/domain/IContract";
 import type { IContractService } from "@/domain/IContractService";
 import type { IService } from "@/domain/IService";

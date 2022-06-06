@@ -110,7 +110,6 @@ namespace WebApp.ApiControllers
                 var domainHousing = await _context.Housings.FirstOrDefaultAsync(x => x.Id == contract.HousingUnitId);
                 domainHousing!.IsAvailable = !domainHousing.IsAvailable;
                 
-                /*_context.Contracts.Update(_mapper.Map<App.Domain.Contract>(contract));*/
                 await _context.SaveChangesAsync();
             }
             catch (DbUpdateConcurrencyException)

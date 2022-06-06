@@ -84,9 +84,7 @@ export default class Header extends Vue {
     identityService = new IdentityService();
 
     async mounted(): Promise<void> {
-
-    
-        console.log(this.identityStore.role)
+        
     }
 
     async showMoney(): Promise<void>{

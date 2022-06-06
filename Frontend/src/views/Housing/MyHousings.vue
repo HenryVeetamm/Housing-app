@@ -74,7 +74,7 @@
 import { Options, Vue } from "vue-class-component"
 import { useIdentityStore } from "@/stores/identityStore";
 import { HousingService } from "@/services/HousingService";
-import type { IHousing } from "@/domain/Housing";
+import type { IHousing } from "@/domain/IHousing";
 import { EActionType } from "@/domain/Enum/EActionType";
 
 
@@ -96,7 +96,6 @@ export default class MyHousings extends Vue {
 
     async mounted(): Promise<void> {
         this.housings = await this.HousingService.getMyHousing();
-        console.log(this.housings)
         this.searchHousings = [...this.housings]
     }
 
