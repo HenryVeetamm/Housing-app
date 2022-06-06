@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApp</name>
+    </assembly>
+    <members>
+        <member name="T:WebApp.ApiControllers.Identity.AccountController">
+            <summary>
+            Controller for account actions
+            </summary>
+        </member>
+        <member name="M:WebApp.ApiControllers.Identity.AccountController.#ctor(Microsoft.AspNetCore.Identity.SignInManager{App.Domain.Identity.AppUser},Microsoft.Extensions.Logging.ILogger{WebApp.ApiControllers.Identity.AccountController},Microsoft.AspNetCore.Identity.UserManager{App.Domain.Identity.AppUser},Microsoft.Extensions.Configuration.IConfiguration,App.DAL.EF.AppDbContext)">
+            <summary>
+            Constructor for controller.
+            </summary>
+            <param name="signInManager">Sign in manager</param>
+            <param name="logger">Logger</param>
+            <param name="userManager">User manager</param>
+            <param name="configuration">Configuration</param>
+            <param name="context">Database context</param>
+        </member>
+        <member name="M:WebApp.ApiControllers.Identity.AccountController.LogIn(PublicApi.DTO.v1.Account.Login)">
+            <summary>
+            Log in an user
+            </summary>
+            <param name="loginDto">Login dto</param>
+            <returns>JWT response with JWT token and refresh token</returns>
+        </member>
+        <member name="M:WebApp.ApiControllers.Identity.AccountController.Register(PublicApi.DTO.v1.Account.Register)">
+            <summary>
+            Register a new user
+            </summary>
+            <param name="registrationDto">Registration information</param>
+            <returns>JWT response with JWT token and refresh token</returns>
+        </member>
+        <member name="M:WebApp.ApiControllers.Identity.AccountController.RefreshToken(PublicApi.DTO.v1.Account.RefreshTokenModel)">
+            <summary>
+            Refresh tokens
+            </summary>
+            <param name="refreshTokenModel">JWT token and refresh token</param>
+            <returns>JWT response with new JWT token and refresh token</returns>
+        </member>
+    </members>
+</doc>

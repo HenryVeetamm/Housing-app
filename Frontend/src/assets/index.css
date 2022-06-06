@@ -1,0 +1,36 @@
+.body {
+  background-color: rgb(231, 240, 245);
+
+}
+
+
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 60px;
+  /* Footer height */
+}
+
+.animated-background {
+  background: linear-gradient(to right, #fac3e7,
+          #ffb0d8, #ff99ff);
+  background-size: 400% 400%;
+  animation: animate-background 10s infinite ease-in-out;
+}
+
+@keyframes animate-background {
+  0% {
+      background-position: 0 50%;
+  }
+
+  50% {
+      background-position: 100% 50%;
+  }
+
+  100% {
+      background-position: 0 50%;
+  }
+}
