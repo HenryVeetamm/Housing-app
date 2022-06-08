@@ -40,7 +40,7 @@
 
 <script lang="ts">
 import { EActionType } from "@/domain/Enum/EActionType";
-import { InitialHousing, type IHousing } from "@/domain/Housing";
+import { InitialHousing, type IHousing } from "@/domain/IHousing";
 import { HousingService } from "@/services/HousingService";
 import { useIdentityStore } from "@/stores/identityStore";
 import { Options, Vue } from "vue-class-component";
